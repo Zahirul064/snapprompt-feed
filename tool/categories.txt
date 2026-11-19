@@ -1,0 +1,12 @@
+photo_enhancement
+color_correction
+face_restoration
+background_editing
+passport_id
+portrait_professional
+old_photo_restoration
+creative_effects
+object_person_editing
+social_media
+resolution_printing
+body_composition
