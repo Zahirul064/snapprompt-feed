@@ -3,9 +3,10 @@
 Public feed of new and trending AI photo-editing prompts for the
 [SnapPrompt AI](https://github.com/Zahirul064/snap_prompt_ai) Android app.
 
-The app downloads `feed.json` at most once a week (a plain HTTPS GET; nothing
-about the user is sent) and adds new commands to its library with a "New"
-badge. Users can turn this off in Settings.
+The app downloads `feed.json` about once a day (a plain HTTPS GET; nothing
+about the user is sent), adds new commands to its library with a "New"
+badge and shows a notification listing them. Users can turn this off in
+Settings. A scheduled task adds new trending prompts every week.
 
 App URL: `https://raw.githubusercontent.com/Zahirul064/snapprompt-feed/main/feed.json`
 
