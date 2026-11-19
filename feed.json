@@ -1,7 +1,7 @@
 {
  "format": "snapprompt-feed",
  "format_version": 1,
- "feed_version": 1,
+ "feed_version": 2,
  "updated_at": "2026-11-19",
  "commands": [
   {
@@ -279,6 +279,102 @@
    "is_popular": false,
    "added_on": "2026-11-19",
    "trend_note": "Double-exposure travel poster, ChatGPT Images 2.0"
+  },
+  {
+   "id": "feed_crochet_doll",
+   "name": "/CrochetDoll",
+   "title_en": "Crochet Doll Me",
+   "title_bn": "ক্রোশে পুতুল আমি",
+   "category_id": "creative_effects",
+   "description_en": "Turns you and the scene into handmade yarn crochet",
+   "description_bn": "আপনাকে আর পুরো দৃশ্যটাকে হাতে বোনা উলের ক্রোশে বানিয়ে দেয়",
+   "prompt_en": "Recreate this photo as a handmade crochet (amigurumi) doll scene: turn the person into a soft yarn doll with stitched yarn hair and knitted versions of their own clothes, keeping the same pose, camera angle, hairstyle and recognisable facial features. Crochet the surroundings too (walls, furniture, plants) in matching yarn colours, replace any logos or text with plain knitted fabric, and use soft natural light so every stitch is visible. Keep every person's face, facial structure, features, natural skin tone and identity exactly the same; do not beautify, reshape or replace the face. Keep the original composition and keep the main subject clearly recognisable.",
+   "prompt_bn": "ছবিটিকে হাতে বোনা ক্রোশে (আমিগুরুমি) পুতুলের দৃশ্য হিসেবে নতুন করে বানান: ব্যক্তিকে নরম উলের পুতুলে পরিণত করুন, চুল হবে সেলাই করা উলের, আর তার নিজের পোশাকগুলো হবে উলে বোনা—ভঙ্গি, ক্যামেরার কোণ, চুলের স্টাইল ও চেনা মুখের বৈশিষ্ট্য একই রাখুন। চারপাশের দেয়াল, আসবাব, গাছপালাও মিল রেখে উলের রঙে ক্রোশে করে দিন, কোনো লোগো বা লেখা থাকলে সেটা সাধারণ বোনা কাপড়ে বদলে দিন, আর নরম প্রাকৃতিক আলো দিন যাতে প্রতিটি সেলাই স্পষ্ট দেখা যায়। প্রত্যেক মানুষের মুখ, মুখের গঠন, বৈশিষ্ট্য, স্বাভাবিক ত্বকের রং ও পরিচয় হুবহু একই রাখুন; মুখ সুন্দর করা, আকৃতি বদলানো বা প্রতিস্থাপন করবেন না। মূল কম্পোজিশন বজায় রাখুন এবং মূল বিষয় যেন স্পষ্টভাবে চেনা যায়।",
+   "instruction_en": "Recreate this photo as a handmade crochet (amigurumi) doll scene: turn the person into a soft yarn doll with stitched yarn hair and knitted versions of their own clothes, keeping the same pose, camera angle, hairstyle and recognisable facial features. Crochet the surroundings too (walls, furniture, plants) in matching yarn colours, replace any logos or text with plain knitted fabric, and use soft natural light so every stitch is visible.",
+   "instruction_bn": "ছবিটিকে হাতে বোনা ক্রোশে (আমিগুরুমি) পুতুলের দৃশ্য হিসেবে নতুন করে বানান: ব্যক্তিকে নরম উলের পুতুলে পরিণত করুন, চুল হবে সেলাই করা উলের, আর তার নিজের পোশাকগুলো হবে উলে বোনা—ভঙ্গি, ক্যামেরার কোণ, চুলের স্টাইল ও চেনা মুখের বৈশিষ্ট্য একই রাখুন। চারপাশের দেয়াল, আসবাব, গাছপালাও মিল রেখে উলের রঙে ক্রোশে করে দিন, কোনো লোগো বা লেখা থাকলে সেটা সাধারণ বোনা কাপড়ে বদলে দিন, আর নরম প্রাকৃতিক আলো দিন যাতে প্রতিটি সেলাই স্পষ্ট দেখা যায়।",
+   "tags": [
+    "crochet",
+    "yarn",
+    "doll",
+    "handmade",
+    "trend"
+   ],
+   "identity_sensitive": true,
+   "is_popular": false,
+   "added_on": "2026-11-19",
+   "trend_note": "AI crochet doll / 'fotos tejidas' trend, TikTok & ChatGPT, mid-Oct 2026"
+  },
+  {
+   "id": "feed_self_hug_sketch",
+   "name": "/SelfHugSketch",
+   "title_en": "Sketch Self Hug",
+   "title_bn": "স্কেচে নিজেকে জড়িয়ে ধরা",
+   "category_id": "creative_effects",
+   "description_en": "A giant pencil drawing of you hugs you from behind",
+   "description_bn": "আপনার বিশাল পেনসিল স্কেচ পেছন থেকে আপনাকে জড়িয়ে ধরে",
+   "prompt_en": "Place the person standing and leaning back against a plain light-grey wall in a vertical 9:16 frame. On the wall, draw a large black-and-white pencil sketch of the same person whose arms reach out of the drawing and wrap gently around their shoulders from behind. Keep the real person in full colour with their face, hair and clothes unchanged, use soft even light, and make the sketch look hand-drawn with visible pencil strokes. Keep every person's face, facial structure, features, natural skin tone and identity exactly the same; do not beautify, reshape or replace the face. Keep the original composition and keep the main subject clearly recognisable.",
+   "prompt_bn": "ব্যক্তিকে একটি সাধারণ হালকা ধূসর দেয়ালে হেলান দিয়ে দাঁড়ানো অবস্থায় খাড়া ৯:১৬ ফ্রেমে বসান। দেয়ালে একই ব্যক্তির বড় একটি সাদা-কালো পেনসিল স্কেচ আঁকুন, যার হাত দুটো আঁকা থেকে বেরিয়ে এসে পেছন থেকে আলতো করে তার কাঁধ জড়িয়ে ধরছে। আসল মানুষটি পুরো রঙিন থাকবে—মুখ, চুল আর পোশাক একদম আগের মতো রাখুন, নরম সমান আলো দিন, আর স্কেচটা যেন হাতে আঁকা মনে হয়, পেনসিলের দাগ যেন দেখা যায়। প্রত্যেক মানুষের মুখ, মুখের গঠন, বৈশিষ্ট্য, স্বাভাবিক ত্বকের রং ও পরিচয় হুবহু একই রাখুন; মুখ সুন্দর করা, আকৃতি বদলানো বা প্রতিস্থাপন করবেন না। মূল কম্পোজিশন বজায় রাখুন এবং মূল বিষয় যেন স্পষ্টভাবে চেনা যায়।",
+   "instruction_en": "Place the person standing and leaning back against a plain light-grey wall in a vertical 9:16 frame. On the wall, draw a large black-and-white pencil sketch of the same person whose arms reach out of the drawing and wrap gently around their shoulders from behind. Keep the real person in full colour with their face, hair and clothes unchanged, use soft even light, and make the sketch look hand-drawn with visible pencil strokes.",
+   "instruction_bn": "ব্যক্তিকে একটি সাধারণ হালকা ধূসর দেয়ালে হেলান দিয়ে দাঁড়ানো অবস্থায় খাড়া ৯:১৬ ফ্রেমে বসান। দেয়ালে একই ব্যক্তির বড় একটি সাদা-কালো পেনসিল স্কেচ আঁকুন, যার হাত দুটো আঁকা থেকে বেরিয়ে এসে পেছন থেকে আলতো করে তার কাঁধ জড়িয়ে ধরছে। আসল মানুষটি পুরো রঙিন থাকবে—মুখ, চুল আর পোশাক একদম আগের মতো রাখুন, নরম সমান আলো দিন, আর স্কেচটা যেন হাতে আঁকা মনে হয়, পেনসিলের দাগ যেন দেখা যায়।",
+   "tags": [
+    "sketch",
+    "pencil",
+    "self hug",
+    "wall art",
+    "trend"
+   ],
+   "identity_sensitive": true,
+   "is_popular": false,
+   "added_on": "2026-11-19",
+   "trend_note": "'Embrace of my own self' pencil-sketch hug, TikTok/CapCut, viral 8-13 Nov 2026"
+  },
+  {
+   "id": "feed_sweater_color_pop",
+   "name": "/SweaterColorPop",
+   "title_en": "Cozy Sweater Pop",
+   "title_bn": "রঙিন সোয়েটার পোর্ট্রেট",
+   "category_id": "portrait_professional",
+   "description_en": "Black-and-white portrait with one colourful chunky sweater",
+   "description_bn": "সাদা-কালো পোর্ট্রেটে শুধু মোটা সোয়েটারটা রঙিন",
+   "prompt_en": "Turn this into a soft black-and-white close-up portrait where the person wears an oversized chunky-knit sweater in one bold colour (such as deep red, emerald or purple), with the sleeves pulled up to cover the mouth and smiling eyes visible above the cuffs. The sweater is the only coloured element; keep the eyes, hairstyle and facial features exactly the same, with a plain backdrop and gentle studio light. Keep every person's face, facial structure, features, natural skin tone and identity exactly the same; do not beautify, reshape or replace the face. Keep it a believable photograph with natural skin texture, and do not change the person's age, body shape or expression.",
+   "prompt_bn": "ছবিটিকে নরম সাদা-কালো ক্লোজ-আপ পোর্ট্রেট বানান, যেখানে ব্যক্তি একটি ঢিলেঢালা মোটা উলের সোয়েটার পরে আছে—একটাই গাঢ় রঙে (যেমন গাঢ় লাল, পান্না সবুজ বা বেগুনি)। সোয়েটারের হাতা টেনে মুখ ঢাকা থাকবে, আর হাতার ওপর দিয়ে হাসিমাখা চোখ দেখা যাবে। ছবিতে শুধু সোয়েটারটাই রঙিন থাকবে; চোখ, চুলের স্টাইল ও মুখের বৈশিষ্ট্য হুবহু রাখুন, পেছনে সাদামাটা ব্যাকগ্রাউন্ড আর হালকা স্টুডিও আলো দিন। প্রত্যেক মানুষের মুখ, মুখের গঠন, বৈশিষ্ট্য, স্বাভাবিক ত্বকের রং ও পরিচয় হুবহু একই রাখুন; মুখ সুন্দর করা, আকৃতি বদলানো বা প্রতিস্থাপন করবেন না। এটি যেন স্বাভাবিক ত্বকের টেক্সচারসহ বিশ্বাসযোগ্য ছবি থাকে, এবং ব্যক্তির বয়স, শরীরের গড়ন বা অভিব্যক্তি বদলাবেন না।",
+   "instruction_en": "Turn this into a soft black-and-white close-up portrait where the person wears an oversized chunky-knit sweater in one bold colour (such as deep red, emerald or purple), with the sleeves pulled up to cover the mouth and smiling eyes visible above the cuffs. The sweater is the only coloured element; keep the eyes, hairstyle and facial features exactly the same, with a plain backdrop and gentle studio light.",
+   "instruction_bn": "ছবিটিকে নরম সাদা-কালো ক্লোজ-আপ পোর্ট্রেট বানান, যেখানে ব্যক্তি একটি ঢিলেঢালা মোটা উলের সোয়েটার পরে আছে—একটাই গাঢ় রঙে (যেমন গাঢ় লাল, পান্না সবুজ বা বেগুনি)। সোয়েটারের হাতা টেনে মুখ ঢাকা থাকবে, আর হাতার ওপর দিয়ে হাসিমাখা চোখ দেখা যাবে। ছবিতে শুধু সোয়েটারটাই রঙিন থাকবে; চোখ, চুলের স্টাইল ও মুখের বৈশিষ্ট্য হুবহু রাখুন, পেছনে সাদামাটা ব্যাকগ্রাউন্ড আর হালকা স্টুডিও আলো দিন।",
+   "tags": [
+    "sweater",
+    "black and white",
+    "color pop",
+    "winter",
+    "trend"
+   ],
+   "identity_sensitive": true,
+   "is_popular": false,
+   "added_on": "2026-11-19",
+   "trend_note": "#aisweatertrend ChatGPT sweater portrait, TikTok/Instagram, 9-12 Nov 2026"
+  },
+  {
+   "id": "feed_snow_globe_mini",
+   "name": "/SnowGlobeMini",
+   "title_en": "Snow Globe Mini Me",
+   "title_bn": "স্নো গ্লোবে ছোট্ট আমি",
+   "category_id": "creative_effects",
+   "description_en": "A tiny you inside a glass snow globe",
+   "description_bn": "কাচের স্নো গ্লোবের ভেতরে ছোট্ট আপনি",
+   "prompt_en": "Place a small, realistic miniature of the person inside a round glass snow globe on a wooden base, standing in a tiny snowy scene with a few pine trees and soft drifting snowflakes inside the glass. Keep their face, hair, clothes and pose recognisable, add gentle reflections on the glass, and set the globe on a cosy table with warm blurred fairy lights behind it. Keep every person's face, facial structure, features, natural skin tone and identity exactly the same; do not beautify, reshape or replace the face. Keep the original composition and keep the main subject clearly recognisable.",
+   "prompt_bn": "ব্যক্তির ছোট্ট বাস্তবসম্মত একটি মিনিয়েচার কাঠের বেসের ওপর রাখা গোল কাচের স্নো গ্লোবের ভেতরে বসান—ভেতরে থাকবে বরফে ঢাকা ছোট্ট দৃশ্য, কয়েকটা পাইন গাছ আর আস্তে আস্তে ভেসে বেড়ানো তুষারকণা। তার মুখ, চুল, পোশাক আর ভঙ্গি যেন চেনা যায়, কাচের ওপর হালকা প্রতিফলন দিন, আর গ্লোবটা একটা আরামদায়ক টেবিলে রাখুন, পেছনে ঝাপসা উষ্ণ মরিচবাতির আলো। প্রত্যেক মানুষের মুখ, মুখের গঠন, বৈশিষ্ট্য, স্বাভাবিক ত্বকের রং ও পরিচয় হুবহু একই রাখুন; মুখ সুন্দর করা, আকৃতি বদলানো বা প্রতিস্থাপন করবেন না। মূল কম্পোজিশন বজায় রাখুন এবং মূল বিষয় যেন স্পষ্টভাবে চেনা যায়।",
+   "instruction_en": "Place a small, realistic miniature of the person inside a round glass snow globe on a wooden base, standing in a tiny snowy scene with a few pine trees and soft drifting snowflakes inside the glass. Keep their face, hair, clothes and pose recognisable, add gentle reflections on the glass, and set the globe on a cosy table with warm blurred fairy lights behind it.",
+   "instruction_bn": "ব্যক্তির ছোট্ট বাস্তবসম্মত একটি মিনিয়েচার কাঠের বেসের ওপর রাখা গোল কাচের স্নো গ্লোবের ভেতরে বসান—ভেতরে থাকবে বরফে ঢাকা ছোট্ট দৃশ্য, কয়েকটা পাইন গাছ আর আস্তে আস্তে ভেসে বেড়ানো তুষারকণা। তার মুখ, চুল, পোশাক আর ভঙ্গি যেন চেনা যায়, কাচের ওপর হালকা প্রতিফলন দিন, আর গ্লোবটা একটা আরামদায়ক টেবিলে রাখুন, পেছনে ঝাপসা উষ্ণ মরিচবাতির আলো।",
+   "tags": [
+    "snow globe",
+    "miniature",
+    "winter",
+    "holiday",
+    "trend"
+   ],
+   "identity_sensitive": true,
+   "is_popular": false,
+   "added_on": "2026-11-19",
+   "trend_note": "AI snow globe mini-me, TikTok holiday formats building Nov-Dec 2026"
   }
  ]
 }
